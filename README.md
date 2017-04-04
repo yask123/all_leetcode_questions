@@ -2,7 +2,7 @@
 
 
 I wanted to practice Leetcode questions with pen and paper on my Kindle. 
-So, I wrote a script which copies all Leetcode algothmic questions and formats it in a single file (txt, pdf, mobi) .
+So, I wrote a script which copies all Leetcode algorithmic questions and formats it in a single file (txt, pdf, mobi) .
 
 <img height="50%" width="50%" src= "https://pbs.twimg.com/media/C8bVGM-U0AA8ogx.jpg"/>
 
