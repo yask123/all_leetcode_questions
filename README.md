@@ -20,7 +20,7 @@ To get all questions link list, visit this URL 'https://leetcode.com/problemset/
 
 ```
 var links = document.getElementsByTagName('a');
-var all_links =  Array.prototype.slice.call( all_links);
+var all_links =  Array.prototype.slice.call(links);
 all_links.forEach(function(val){
     console.log(val.href);
 });
