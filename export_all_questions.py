@@ -22,7 +22,7 @@ def get_question(question_link):
   print soup.title.string.split('|')[0]
   print '------------------------------'
 
-  return soup.find_all('meta')[0].find_all('meta')[1]['content']
+  return soup.find_all('meta')[1].find_all('meta')[1]['content']
 
 
 
